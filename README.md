@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ankita 👋
 
-<!--
-**ankitaubale1323/ankitaubale1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform  
 
-Here are some ideas to get you started:
+🚀 Currently building consistency through #90DaysOfDevOps  
+☁️ 3.5+ years of experience in AWS & Kubernetes environments  
+🔐 Exploring advanced Kubernetes, Observability & Cloud Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 DevOps Toolkit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+**Cloud:** AWS (EC2, S3, IAM, EKS, VPC, Lambda, EBS, EFS)  
+**Containers & Orchestration:** Docker, Kubernetes  
+**CI/CD:** Jenkins, GitHub Actions  
+**Infrastructure as Code:** Terraform  
+**Monitoring & Observability:** Prometheus, Grafana, OpenSearch, CloudWatch  
+**Databases:** MySQL, MongoDB  
+**Scripting:** Bash, Python  
+**Version Control:** Git  
+
+---
+
+## 📌 Featured Projects
+
+🔥 90-Days-of-DevOps  
+🐚 shell-automation-scripts  
+🐍 python-utility-scripts  
+📊 financial-tracker  
+🛠 troubleshoot-crypto-hash-error  
+📚 devops-notes  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/ankitaubale/  
+📧 Email: ankitaubalesocial@gmail.com  
